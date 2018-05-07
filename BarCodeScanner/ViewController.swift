@@ -215,8 +215,6 @@ extension ViewController : AVCapturePhotoCaptureDelegate {
                 self.captureSession.stopRunning()
             }
         }
-        
-        
     }
 }
 
